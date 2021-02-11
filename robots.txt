@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://jainaakarsh4ja.github.io/publiisite/sitemap.xml
