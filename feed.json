@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "https://jainaakarsh4ja.github.io/publiisite/cs-student-choice-dilema/index.html",
+            "url": "https://jainaakarsh4ja.github.io/publiisite/cs-student-choice-dilema/index.html",
+            "title": "cs- student - choice -dilema",
+            "summary": "path of the computer science sutdent - not well defined - why need to learn java with other languages ? java dvlpr job spcific not - experience more job done - a cs student cannot get job - due to diverse language knowledge - rather&hellip;",
+            "content_html": "<p>path of the computer science sutdent - not well defined - <br>why need to learn java with other languages ?<br>java dvlpr job spcific not - experience more job done - a cs student cannot get job - due to diverse language knowledge - rather than expertise in one?<br>student left to choose - own his own - which language he will master in - most choose ai/ml/supported - world needs entertainment - that's why jvscrpt win</p>",
+            "author": {
+                "name": "Aakarsh Jain"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-02-28T04:30:36+01:00",
+            "date_modified": "2021-02-28T04:30:36+01:00"
+        },
+        {
             "id": "https://jainaakarsh4ja.github.io/publiisite/kahsdfl/index.html",
             "url": "https://jainaakarsh4ja.github.io/publiisite/kahsdfl/index.html",
             "title": "kahsdfl",
@@ -21,8 +35,8 @@
             },
             "tags": [
             ],
-            "date_published": "2021-02-23T12:03:59+05:30",
-            "date_modified": "2021-02-23T12:03:59+05:30"
+            "date_published": "2021-02-23T07:33:59+01:00",
+            "date_modified": "2021-02-23T07:33:59+01:00"
         },
         {
             "id": "https://jainaakarsh4ja.github.io/publiisite/devlife/index.html",
@@ -34,8 +48,8 @@
             },
             "tags": [
             ],
-            "date_published": "2021-02-11T15:48:52+05:30",
-            "date_modified": "2021-02-11T15:49:12+05:30"
+            "date_published": "2021-02-11T11:18:52+01:00",
+            "date_modified": "2021-02-11T11:19:12+01:00"
         },
         {
             "id": "https://jainaakarsh4ja.github.io/publiisite/hello-world/index.html",
@@ -48,8 +62,8 @@
             },
             "tags": [
             ],
-            "date_published": "2021-02-11T14:47:53+05:30",
-            "date_modified": "2021-02-11T14:47:53+05:30"
+            "date_published": "2021-02-11T10:17:53+01:00",
+            "date_modified": "2021-02-11T10:17:53+01:00"
         }
     ]
 }
